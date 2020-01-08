@@ -9,7 +9,6 @@ is designed to create web based PKI application fully on the client side.
 
 ## Requirements
 * Modern web browser with WebCrypto features enabled. Please check http://caniuse.com/#search=cryptography
-* NodeJS v10.x
 
 ## Usage
 
